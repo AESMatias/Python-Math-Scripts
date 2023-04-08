@@ -1,4 +1,3 @@
-
 #This does not have been proved with negative cases yet, that's why the numbers must be
 #positive. Also, this code need to be refactored with validation functions for the 
 #inputs and, of course, the input option to choose between positive and negative 
